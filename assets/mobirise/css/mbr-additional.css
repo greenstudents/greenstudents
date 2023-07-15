@@ -804,7 +804,7 @@ a {
 }
 .cid-tBpj9vmJEf .dropdown-menu,
 .cid-tBpj9vmJEf .navbar.opened {
-  background: #ffffff !important;
+  background: #a9da47 !important;
 }
 .cid-tBpj9vmJEf .nav-item:focus,
 .cid-tBpj9vmJEf .nav-link:focus {
@@ -839,7 +839,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: #a9da47;
 }
 .cid-tBpj9vmJEf .navbar.opened {
   transition: all 0.3s;
@@ -984,7 +984,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tBpj9vmJEf .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #a9da47;
 }
 .cid-tBpj9vmJEf .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1089,7 +1089,11 @@ a {
 .cid-tK0ABXi59z {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/starstable-2023-07-13-18-48.png");
+}
+.cid-tK0ABXi59z .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.1;
 }
 .cid-tK0ABXi59z img,
 .cid-tK0ABXi59z .item-img {
